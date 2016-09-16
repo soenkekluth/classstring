@@ -1,0 +1,28 @@
+{
+  "name": "classstring",
+  "version": "1.0.0",
+  "description": "A simple utility for conditionally joining classNames together",
+  "main": "src/classstring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/classstring.git"
+  },
+  "keywords": [
+    "utility",
+    "util",
+    "classnames",
+    "classname",
+    "classes",
+    "css",
+    "react"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/classstring/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/classstring#readme"
+}
